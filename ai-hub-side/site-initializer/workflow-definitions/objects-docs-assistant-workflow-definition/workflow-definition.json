@@ -1,0 +1,11 @@
+{
+	"active": true,
+	"externalReferenceCode": "L_OBJECTS_DOCS_ASSISTANT",
+	"groupExternalReferenceCode": "[$ACCOUNT_ENTRY_GROUP_ERC:L_AI_HUB$]",
+	"name": "Objects Docs Assistant",
+	"scope": "ai",
+	"title": "Objects Docs Assistant",
+	"title_i18n": {
+		"en_US": "Objects Docs Assistant"
+	}
+}
